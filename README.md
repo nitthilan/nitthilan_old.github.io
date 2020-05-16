@@ -29,6 +29,9 @@ git commit -m "New posts added"
 git push -u origin master
 
 bundle update
+bundle install
+bundle exec jekyll build
+
 pkill -f jekyll
 bundle exec jekyll serve --watch --port 8000 --incremental --detach
 
