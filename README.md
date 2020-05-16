@@ -22,7 +22,7 @@ Commands used:
 - bundle exec jekyll build
 - bundle exec jekyll build --drafts => to build drafts folder
 
-`
+
 bundle exec jekyll build
 git add . 
 git commit -m "New posts added"
@@ -31,7 +31,7 @@ git push -u origin master
 bundle update
 pkill -f jekyll
 bundle exec jekyll serve --watch --port 8000 --incremental --detach
-`
+
 
 alias run_rsync='rsync -azP --progress --stats --exclude ".*/" --exclude ".*" --exclude "tmp/" //Users/kannappanjayakodinitthilan/Documents/myfolder/project_devan/aws_workspace/source/website/nitthilan.github.io njayakodi_dg@134.121.66.109:/local/data/nitthilan/source_code/website/'
 
