@@ -44,3 +44,6 @@ run_rsync; fswatch -o Users/kannappanjayakodinitthilan/Documents/myfolder/projec
 Fix for ffi:
 
 brew reinstall libffi
+
+
+bundle exec jekyll serve --watch --port 8000
