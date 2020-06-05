@@ -51,6 +51,12 @@ Story ideas:
 	- Make the house a booby trap for a treasure or let the house be halloween house
 - Can a ghost movie be made with first person immersive where the audience is a character
 
+High level themes to be touched:
+- Black lives matter - Talk about caste system
+- Color discrimination - Losing self confidence because of being man of color
+- Body shaming - Being Fat
+- 
+
 Story ideas:
 ===========
 - A person wrties a story adn each chapter ends 
@@ -138,6 +144,7 @@ I slowly walked to the bathroom, reluctantly. One, I hate my science teacher and
 My phone vibrated, breaking my thought process. "Hey Anju, where are you?" "Vaada. Just walk outside and walk towards the taxi stand." If not for that day, I would not have met Koushik, my brother. 
 ---------------------------------------------
 
+title: ???
 As I stood there waiting for the bus/plane to arrive, my thouhgts dragged me to the past. Its been a while. It was one of those days. You have been thinking of saying something to your parents but did not have the confidence to talk about it. It was not different for a girl in here ninth grade.
 
 My artificial deadline was before the van arrives for the school that day. I want to vent it all out on my parents. 
@@ -148,3 +155,22 @@ It all started few months back as a joke. As usual, I did not finish my lunch. "
 
 I slowly walked to the bathroom, reluctantly. One, I hate my science teacher and her so called surprise tests scheduled today. Two, I was not sure how I am going to share my thoughts with my parents. My brush poking its way around my mouth as I ruminate on these thoughts. Standing under the shower, I felt the water was cold today. Probably it would rain and the school would get cancelled. "Anju, Can you hurry up a little? Its getting late for my office" Appa knocked on my door. I can hear Mickey too scratching the door. Stepping out I thought I should go through all I wanted to talk once again as I dressed up. Today it PT class. I have to wear white today. As I stepped out of my room, amma had already prepared the lunch. Appa was also ready to leave for office. I sat on the couch, my throne. Appa was at my feet dusting my socks and cleaning my shoes. Amma came with dosa on the plate ready to stuff it in my mouth before I run away to catch the van. there was a 5 minute gap. The right time. "Appa, is it necessary to bring in a yonger brother" Appa paused a little "Yaen ma, why this question suddenly?" Amma, dipped a piece of dosa in sambar and as it dripped on the plate "Solluma. What are your thoughts?" "Illa ma. I am not feeling comfortable." Appa dropped the shoes and took me on his lap and with a concerned face "Solluda. Why do you feel uncomfortable" "You said, two days back during dinner that you are planning to have sibling." "Hmmm" Amma fed a socked dosa in my mounth. "Are you worried that you will have a competition." "Do not worry da. I will clean both your shoes." With a muffled voice of dosa in mouth "Unhun. Thats not a issue. Is it necesary to bring a new sibling?" "Ennada sollura. I am not able to understand what you are saying?" "Illa pa. Last year. On the way to Raju Sithappa place, it was raining heavily and we hit a dog by accident." "Sari. Amma, Thats were we found mickey. She came limping towards us." "Athan pa solluren. Last Sunday when we were sitting on the beach, there was a small kid selling Sundal. Why cannot he be my sibling?" Appa smiled. Amma fed the last piece of dosa and I rushed for the van. 
 My phone vibrated, breaking my thought process. "Hey Anju, where are you?" "Vaada. Just walk outside and walk towards the taxi stand." If not for that day, I would not have met Koushik, my brother. 
+
+----------------------
+
+title: Ideal proposal
+- Make the talk casual. Do not over empahsize the thought
+- Check whether she is single and is not in a relationship
+- Mention recently you have been hearing to her songs repeatedly and liked it very much.
+- Further, she is your sister and so she would have similar characteristics. So thouhgt should check if at all she would be interested
+- It is not love or anything. I liked her and I am in a phase where I am seriously thinking about settling. So thought to check if she would be interested. 
+- Is there a possibility to consider?
+- Would you check with her and let me know?
+- It makes sense to talk to you rather than pinging her directly
+- I am pretty open and willing to ahre as much details as possible
+- I am pretty open to share any details if required.
+- Financially, I think I am well settled but not so great. But have plans for making it big in the future. I have to some extent have come down a little assuming I can go much beyond. Just a thought
+- My father is a doctor and mother is a house wife. 
+
+
+
