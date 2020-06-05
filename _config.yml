@@ -32,32 +32,32 @@ urls:
 
 author_logo: profile.png
 author: Nitthilan, Kannappan Jayakodi
-author_bio: Hi, my name is Nitthilan. K. J. 
+author_bio: Hi, my name is Nitthilan. K. J. Pursuing PhD (ML/AI) @ Washington State University. My general research interests are at the intersection of Machine Learning (ML) and Computing Systems (Sys). Specifically, I'm working towards the vision of  EdgeAI to efficiently deploy AI solutions for emerging applications (e.g., robotics, self-driving cars, augmented/virtual reality, and smart health) on edge platforms that are constrained by resources (power, compute, and memory). (a) Developed a novel hardware-aware design and optimization framework to trade-off power, performance, and accuracy for performing inference using deep neural networks. (b) Studied effective instantiations of this framework for different applications - Convolutional neural networks for image classification, Graph convolutional networks for 3D computer vision, and Generative adversarial networks for image manipulation tasks.(c) Published papers at top-tier venues including three journal papers (ACM/IEEE Transactions on CAD and Embedded Computing Systems) and three conference papers (DAC, DATE, AAAI). Three papers under review at ICPR, TCAD and JAIR. (d) Interested in Artificial General Intelligence (AGI), Deep Generative Models (GAN, VQVAE) in VFX/Graphics
 author_email: "nitthilan@gmail.com"
 author_location: Pullman, WA, USA.
 author_website_url: "http://nitthilan.github.io"
 typewrite-text: Checkout the colors generated with this prism
 
 author_work_experiences:
-            - company_name: Google
-              company_logo: google.png
-              company_url: https://google.com
-              designation: Software Engineer
-              description: Worked on various Google Products
+            - company_name: Polycom
+              company_logo: polycom.svg
+              company_url: https://www.poly.com/us/en
+              designation: Senior Staff Engineer
+              description: Cloud Video Conferencing Platform Projects
               visibility: true
-            - company_name: Microsoft
-              company_logo: microsoft.png
-              company_url: https://microsoft.com
-              designation: Azure Developer
-              description: Worked on various Azure Cloud Products
+            - company_name: Ittiam Systems
+              company_logo: ittiam.png
+              company_url: https://www.ittiam.com/
+              designation: Senior Engineer
+              description: End-to-end Video Codecs - H264, MPEG4/2
               visibility: true
 
 author_education_details:
-              - college_logo: mit.png
-                college_name: MIT
-                college_url: https://mit.org
-                college_degree: CS Engineer
-                description: Bachelor of Technology
+              - college_logo: wsu.svg
+                college_name: Washington State University
+                college_url: https://wsu.edu/
+                college_degree: PhD 
+                description: Artificial Intelligence and Machine Learning
                 visibility: true
 
 author_project_details:
@@ -90,7 +90,7 @@ flickr_username: nitthilan
 hyvor_talk_website_id: 476
 
 # wakatime username (coding activity)
-wakatime_username: sujaykundu777
+wakatime_username: nitthilan
 
 # mailchimp embedded form url (newsletter):
 mailchimp_form_url: https://sujaykundu.us10.list-manage.com/subscribe/post?u=50bab1c85eae24ecfb0f68361&amp;id=3a2dd721d0

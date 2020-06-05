@@ -6,14 +6,7 @@ permalink: /entertainment
 ---
 
 ### Sections
-- [Drawing](#drawing)
-- [Movies](#movies)
-- [Short Stories (Tamil)](#short-stories-tamil)
-- [Investment](#investment)
-- [Cooking](#cooking)
-- [Writing](#writing)
-- [Motivation](#motivation)
-- [Food](#food)
+[Drawing](#drawing) - [Movies](#movies) - [Short Stories (Tamil)](#short-stories-tamil) - [Investment](#investment) - [Cooking](#cooking) - [Writing](#writing) - [Motivation](#motivation) - [Food](#food)
 
 
 ##### Drawing
@@ -76,33 +69,32 @@ permalink: /entertainment
 
 ##### Cooking
 
-- Tried
-	- [Prawn Fry](https://www.youtube.com/watch?v=JAVbJf3o3qk)
-	- [Fish Fry](https://www.youtube.com/watch?v=sUkt91x-cOY)
-	- [Kesari](https://www.youtube.com/watch?v=Y5v_65iXpY0)
+###### Sweet
 
-- Biriyani Options:
-	- [Chicken](https://www.youtube.com/watch?v=Sj6mM6IXAq8) -chicken
-	- [Cooker Egg Biriyani](https://www.youtube.com/watch?v=uQqwj9um9_g) - cooker egg biriyani
-
+- [Kesari](https://www.youtube.com/watch?v=Y5v_65iXpY0)
+- [Paayasam](https://www.youtube.com/watch?v=5_cIM4PGd2U)
 - Wheat halwa: [ast but may not be that good](https://www.youtube.com/watch?v=Gya1J-mGHBM), [Looks too good. In Tamil](https://www.youtube.com/watch?v=oG7wglvAXeg)
-
+- [Moong dal payasam](https://www.youtube.com/watch?v=oHSNGbSQlDE)
 - The great baking show : Netflix show: Cakes, Biscuits are a good to do bayesian experiments, cookies
-- Uppu kari : mutton receipie - looks awesome
+
+###### Non-veg
+
+- Biriyani Options: [Chicken](https://www.youtube.com/watch?v=Sj6mM6IXAq8), [Cooker Egg Biriyani](https://www.youtube.com/watch?v=uQqwj9um9_g), [biriyani egg](https://www.youtube.com/watch?v=5VapbxkA_UA)
+- [Prawn Fry](https://www.youtube.com/watch?v=JAVbJf3o3qk)
+- [Fish Fry](https://www.youtube.com/watch?v=sUkt91x-cOY)
 - [Brinjal gravy](https://www.youtube.com/watch?v=h_qsg8Gof4Q)
 - [Chicken tikka masala](https://www.youtube.com/watch?v=upfu5nQB2ks)
 	- [Butter masala](https://www.youtube.com/watch?v=LtPu6Jd-ZhI)
 - [spanish omlete](https://www.youtube.com/watch?v=X_idvqxRD3E)
 - Frittata
-- biriyani egg https://www.youtube.com/watch?v=5VapbxkA_UA
 - Egg roll wrapper and make samosa
-- https://www.youtube.com/watch?v=J3tCBVTgzLg - chinese dishes like noodles etc
-- https://www.youtube.com/watch?v=KatLap0bLmo - egg malai masala
-- moong dal payasam: https://www.youtube.com/watch?v=oHSNGbSQlDE
-- https://www.youtube.com/watch?v=aM_wiQFia2M - paneer masala
-	- https://www.youtube.com/watch?v=eDOmZPQns8M - mattar paneer - looks better. besan
-	- https://www.youtube.com/watch?v=_Um-jLO7_bM - paneer tikka masala
-	- paneer butter masala: https://www.youtube.com/watch?v=1mVP2TkjafI
+- [Egg malai masala](https://www.youtube.com/watch?v=KatLap0bLmo)
+- Uppu kari : mutton receipie - looks awesome
+
+###### Veg
+
+- [chinese dishes like noodles etc](https://www.youtube.com/watch?v=J3tCBVTgzLg)
+- [paneer masala](https://www.youtube.com/watch?v=aM_wiQFia2M), [mattar paneer - looks better. besan](https://www.youtube.com/watch?v=eDOmZPQns8M), [paneer tikka masala](https://www.youtube.com/watch?v=_Um-jLO7_bM), [paneer butter masala](https://www.youtube.com/watch?v=1mVP2TkjafI)
 
 ##### Writing:
 - English speaking [link1](https://www.youtube.com/watch?v=r_5K7cs24-8&list=PL4IJAxR6Bqq8vP0kEeQRgU6lUe4s4u2DW&index=4), [Learn English in 3 Hours - ALL You Need to Master English Conversation](https://www.youtube.com/watch?v=QTJ02h7uiXs), [American accent](https://www.youtube.com/watch?v=6DiQ95hUUfI), [American Accent1](http://dl.ueb.edu.vn/bitstream/1247/2927/1/American%20Accent%20Training.pdf)
