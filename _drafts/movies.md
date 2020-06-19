@@ -172,5 +172,11 @@ title: Ideal proposal
 - Financially, I think I am well settled but not so great. But have plans for making it big in the future. I have to some extent have come down a little assuming I can go much beyond. Just a thought
 - My father is a doctor and mother is a house wife. 
 
+- Talk to her sister and check if it fine to talk to her
+- Talk to her and see how eager she is
+- Make sure this does not spoil the friendship
+- Make sure even if she says know you would still be interested and if there is any change of heart I will still be open.
+- 
+
 
 

@@ -14,6 +14,11 @@ permalink: /entertainment
 
 ##### Motivation
 - [Jigarthanda](https://youtu.be/bAmXn1fWnpE?t=6614)
+- If you want to go fast go alone, if you want to go far, go together
+- When you have many things to do pick the most important and most interesting at that point to work and start working
+- "He sought many things from the act of terror but one was notoriety. And that is why you will never hear me mention his name. He is a terrorist. He is a criminal. He is a extremist.  But he will when I speak be nameless" - Jacinda Ardern
+- "You have to establish who you are in this world. Donot let others establish who you are" - Madonna to Rodman
+- MJordan - Do as many things as possible and do not be lazy
 
 
 
@@ -51,6 +56,7 @@ permalink: /entertainment
 - [What-are-the-best-Tamil-sites-to-read-short-stories](https://www.quora.com/What-are-the-best-Tamil-sites-to-read-short-stories)
 - [Wiki](https://ta.wikisource.org/wiki/%E0%AE%AE%E0%AF%81%E0%AE%A4%E0%AE%B1%E0%AF%8D_%E0%AE%AA%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%AE%E0%AF%8D)
 - [What-are-the-best-short-stories-in-Tamil](https://www.quora.com/What-are-the-best-short-stories-in-Tamil)
+- Dostoevsky, Tolstoy - totally 7 books
 
 ##### Food
 - [Intermittent fasting](https://youtu.be/iatPAjf5I_Y)
@@ -73,6 +79,7 @@ permalink: /entertainment
 
 - [Kesari](https://www.youtube.com/watch?v=Y5v_65iXpY0)
 - [Paayasam](https://www.youtube.com/watch?v=5_cIM4PGd2U)
+- [Date Paayasam](https://www.youtube.com/watch?v=hkTAMlLcN2c&list=PL4mtHuMZdZjwUYR38YGrLMTlOgW-W3b6B&index=19&t=9s)
 - Wheat halwa: [ast but may not be that good](https://www.youtube.com/watch?v=Gya1J-mGHBM), [Looks too good. In Tamil](https://www.youtube.com/watch?v=oG7wglvAXeg)
 - [Moong dal payasam](https://www.youtube.com/watch?v=oHSNGbSQlDE)
 - The great baking show : Netflix show: Cakes, Biscuits are a good to do bayesian experiments, cookies

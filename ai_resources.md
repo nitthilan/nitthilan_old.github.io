@@ -21,6 +21,7 @@ permalink: /ai/
 - [Heroes of Deep Learning: Andrew Ng interviews Pieter Abbeel](https://www.youtube.com/watch?v=dmkPJpWCVcI)
 - [Deepmind opensources starcraft II ai](https://www.youtube.com/watch?v=St5lxIxYGkI)
 - [OpenAI bots beats DOTA Worl champion](https://www.youtube.com/watch?v=cLC_GHZCOVQ)
+- [Deepmind and UCL course work](https://www.youtube.com/watch?v=_aUq7lmMfxo)
 
 
 ###### List of topics to be covered
