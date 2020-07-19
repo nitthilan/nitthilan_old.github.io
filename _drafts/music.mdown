@@ -49,3 +49,11 @@ Artificial Intelligence based music creations:
 programming music with python
 - https://jythonmusic.me/download/
 - https://sonic-pi.net/
+
+songs:
+- https://www.quora.com/What-is-the-meaning-of-the-Bengali-words-in-the-song-O-megh-by-Shantanu-Moitra-Papon
+- https://hindilyricstranslated.wordpress.com/2019/08/07/dil-beparvah-ankur-tewari-prateek-kuhad-2016/
+- https://www.realityviews.in/2018/02/lyrics-with-english-translation-of-song_25.html - Surmayee Ankhiyon mein from Sadma
+- https://www.metrolyrics.com/coldmess-lyrics-prateek-kuhad.html
+- https://lyricstranslate.com/en/raat-razi-raat-razi.html
+- https://www.filmyquotes.com/songs/1223 - Kho Gaye Hum Kahan

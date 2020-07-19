@@ -19,6 +19,11 @@ permalink: /entertainment
 - "He sought many things from the act of terror but one was notoriety. And that is why you will never hear me mention his name. He is a terrorist. He is a criminal. He is a extremist.  But he will when I speak be nameless" - Jacinda Ardern
 - "You have to establish who you are in this world. Donot let others establish who you are" - Madonna to Rodman
 - MJordan - Do as many things as possible and do not be lazy
+- Pursue things which make you happy. Do not do things which make you sad
+- Think of solutions of problems which are imminent. Do not think of imaginary problems.
+- [An Antidote to Dissatisfaction](https://www.youtube.com/watch?v=WPPPFqsECz0)
+- [I had a black dog](https://matthewjohnstone.com.au/courses/)
+- Caste - [India untouched](https://www.youtube.com/watch?v=PZb4lGYkjrg)
 
 
 
@@ -102,7 +107,12 @@ permalink: /entertainment
 
 - [chinese dishes like noodles etc](https://www.youtube.com/watch?v=J3tCBVTgzLg)
 - [paneer masala](https://www.youtube.com/watch?v=aM_wiQFia2M), [mattar paneer - looks better. besan](https://www.youtube.com/watch?v=eDOmZPQns8M), [paneer tikka masala](https://www.youtube.com/watch?v=_Um-jLO7_bM), [paneer butter masala](https://www.youtube.com/watch?v=1mVP2TkjafI)
+- [Prashant recipes](https://delightfulvegetarianrecipes.com/category/healthy/)
 
 ##### Writing:
 - English speaking [link1](https://www.youtube.com/watch?v=r_5K7cs24-8&list=PL4IJAxR6Bqq8vP0kEeQRgU6lUe4s4u2DW&index=4), [Learn English in 3 Hours - ALL You Need to Master English Conversation](https://www.youtube.com/watch?v=QTJ02h7uiXs), [American accent](https://www.youtube.com/watch?v=6DiQ95hUUfI), [American Accent1](http://dl.ueb.edu.vn/bitstream/1247/2927/1/American%20Accent%20Training.pdf)
 - [writersbeat](http://www.writersbeat.com/),[writingforums](https://www.writingforums.org/), [nybookeditors](https://nybookeditors.com/2015/11/11-top-writing-communities-you-should-join-and-why/)
+
+##### Books to read
+- communist manifesto, rights of man thomas paine
+- THE ANNIHILATION OF CASTE - [text](file:///Users/kannappanjayakodinitthilan/Downloads/aoc_print_2004.pdf), [soundcloud](https://soundcloud.com/freebuddhistaudio/sets/annihilation-of-caste)

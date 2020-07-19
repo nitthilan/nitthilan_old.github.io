@@ -42,6 +42,25 @@ permalink: /ai/
 - [startupschool](https://www.startupschool.org/)
 - [disneyaccelerator](https://disneyaccelerator.com/)
 
+###### Job Options
+
+- [E3](https://e3expo.com/)
+- [CVPR](http://cvpr2020.thecvf.com/jobs)
+- [Siggraph](https://s2020.siggraph.org/)
+- [cartoon network animation expo](https://www.ctnanimationexpo.com/index.php)
+
+###### Internships
+- Studio list - Pixar, nickelodean, laika, dreamworks, bluesky, warner brothers, cartoon network, Blizzard
+- [How to get a pixar internship](https://www.youtube.com/watch?v=44DdiybwJ8c)
+- [Animation colleges](https://www.animationcareerreview.com/articles/walt-disney-animation-studios-career-profile#:~:text=According%20to%20the%20company%20website,Maya%20or%20a%20similar%20program.) - [conceptdesignacad](http://conceptdesignacad.com/)
+- [How to get a job at Blizzard](https://www.youtube.com/watch?v=dY-Ts69F4Xo)
+
+
+###### Portfolio creation
+- [DevianArt](https://www.deviantart.com/), Instagram, YouTube
+- List of inspiring artists: bobby pontillas, rafael grassetti [human anatomy](https://gumroad.com/grassettiart), [youtube](https://www.youtube.com/watch?v=VmUikhiWu8c), Laura Price [MY ART JOURNEY](https://www.youtube.com/watch?v=lfZ8HKUhxak), [Michael Vicente](https://www.youtube.com/watch?v=dY-Ts69F4Xo), [Ross draws](https://www.youtube.com/channel/UCLEVrhumRsK67JkP3G4w5cQ/videos)
+- [Polycount](https://polycount.com/forum), [zbrush central](https://www.zbrushcentral.com/t/gallery/227023), [artstation](https://www.artstation.com/)
+- Books - [Composing Pictures](https://www.amazon.com/dp/B00LKL6Q3S/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1), [illusion of life](https://www.amazon.com/Illusion-Life-Disney-Animation/dp/0786860707), [Animators survival kit](https://www.amazon.com/Animators-Survival-Kit-Expanded-Principles/dp/0571238343)
 
 ###### Channels followed
 

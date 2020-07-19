@@ -178,5 +178,133 @@ title: Ideal proposal
 - Make sure even if she says know you would still be interested and if there is any change of heart I will still be open.
 - 
 
+- Apologise for being so blunt but is your sister in a relationship.
+- Your sister has a beutiful voice and I love her songs. 
 
+- Did you know what I was going to talk about? The way you said yes it was like you were expecting something like this
+- Love is a strong word. I do not know her that much. I like her and feel it would be good to know her better.
+- I love her songs. She is a doctor and most importantly she is your sister so she should be good.
+- I wanted to check with you whether she would be interested. Our friendship is more important what ever may be the final result. Further, I know you more that your sister.
+- I want the journey to be that of peers. She would have herr own dreams and me mine. I prefer we travel together as friends relishing on each others achiement. I felt she would be someone like that. 
+- Financially, I have a decent background. I have earned and saved sufficiently for myself (like have some prperties on my name). Worst case I can always dip into my fathers though I would not prefer it.
+- I am very flexible and very approchable. She can talk about anything and everything and I do not mind sharing it. So if possible ask her whether she would be interested to talk and discuss about this.
+- Would she be willing to discuss this possibility. Worst case I would get a good friend. Somehow it is currently weird the way she responds. Its very restricted
+
+
+Hi, in the iissue of being so long I will go ahead and still put all my thoughts into a letter. 
+
+Hi Dr., 
+
+This message is going to be, long. So grab something to eat or get a cup of coffee. Its easier to put my thoughts into a letter. I assume Swarnita had already talked to you and so will jump into my thoughts directly. 
+
+A little background about myself. I have a very supportive and kind family who is very open and encouraging. My father is a doctor too. Like Swarnita, I too have a little sister and as you grew up in a Joint family (which I could not guess until Swarnita told explicitly, kudos to you twins), my family too is a close-knit family of cousins but probably slightly bigger. Grandfathers you know. 
+
+Life has its own course and there are periods of ups and periods of down. Like a roller coaster. But in the end its the journey. So I see a relationship as more of a good friend who you can share this journey with. Talk about how thrilling and exciting the ride is. It has been one thrilling ride till now and am hoping to share more exciting things in the future.
+
+I am a dreamer too and have an interest in varied fields. I like to draw or paint but unfortunately like any Indian family tradition was given the option of only Engineering and Medicine. I chose the former. However, am trying to go back to my interests like trying to explore AI/ML for animation, music, art, etc. Trying to make my passion as my work. Took a while but should reach there soon. 
+
+I believe everyone has their own dreams would love to share that journey and if possible, support each other or at least be a shoulder to rest [on when you are tired] or lend an ear [when you want to bounce ideas on].
+
+There may be a lot of difference between us be it in culture, state, language, profession, probably even in direction (we consider anyone from above TN us North and You would probably see us as South :P). One could see these as incompatibilities (aspects we differ on). But these differences make it interesting to explore each other's culture. Experience and enjoy new experiences.
+
+I may have been pretty forward when I directly pinged you but that's more of a fanboy effect :P. Yeh Dil Bechara. Have been binging (not sure whether that's the right word) your songs in a loop. Have created a playlist of all your songs. Will continue disturbing you in that regard, regardless of how you feel about me. Anyway, that's for another time.
+
+Based on what Swarnita told me, you have been through a difficult time and things may be little dark at present. I cannot say I could be a light at this time. It's was your personal journey and I would be dumb to assume I too can feel it. However, I can assure you I would be able to wait and be supportive as a friend would be, as you find your way around. Sounds too filmy :P but in effect, that's what I mean to say. The only way to prove is to show it and words would not hold water.
+
+I am pretty open and willing to share anything about me. It could either be about me, about my financials, my habits, anything where you have doubts/clarifications/questions. I can discuss anything. Nothing to hide. If you are willing to have a discussion we can always talk anytime. 
+
+In short, I like you. If you too are interested, we can talk with an open mind and see where this goes? What say?
+
+
+Well this is off the chest, I assume we can talk normally for the love of songs. Hope I would get replies other than "Thank U".
+
+The last two songs are yet to come on youtube and I do not have a copy lost in 
+
+Well 
+If you have an open mind  Its hard to convince someone who has already taken a decision. Would you be interested in giving me a try and see how this goes. 
+
+-------------------------------------------------------------
+
+JayKay  4:19 PM
+The hitting part is how it is ingrained into kids that too at this very young age.
+4:21
+Even worse is the difference between boys and girls. While girls are asked to make tea boys are not
+4:24
+Look at the high standard he maintains. A boy does not go for lunch because, the other people would get up and go if he sits with them. Though he feels ashamed, he is sacrificing his hunger for the hunger of others.
+4:26
+"The teacher is lying" Epic reply.
+
+JayKay  5:35 PM
+They have put so much innovation in practicing untouchability making people remove slippers, not using the milk and sending it to Amul dairy, pouring water from a distance, arranging kids in order of their caste.
+5:37
+Looks like the only thing which unites us all North, South, East or West is practicing untouchability
+
+JayKay  5:44 PM
+Most believe that it's a rule or a world order and do not realise their legal rights has been violated. The ignorance still stumps me. Feeling little ashamed to have been part which believes that caste based discrimination in education is wrong. Looks like we still need more awareness.
+5:47
+Looks like one Periyar is not enough.
+
+Ravi  5:51 PM
+I too was against reservation when this issue cane up during UPA. But that is when I was ignorant of these issues.
+
+JayKay  5:53 PM
+The school and probably the uniform system is a very great levelling field. Kids say they talk to others at school but not at their homes.
+5:55
+A manger sits on the ground, elders address children with respect.
+5:58
+Every region in India has a part to play in this.
+6:01
+I do knot know whether to laugh or cry. Even within themselves, there is differences. People from one do not drink or eat at the other's place
+6:03
+Just half way through. It's so compelling like a thriller. Do watch it makkale
+
+Ravi  6:04 PM
+It is also interspersed with manusmrithi
+
+JayKay  6:06 PM
+Actually, I had a high thought or had a high esteem about manu shasthra. But looks like it it not so. Probably there are parts like how warfare has to happen etc which makes sense but this side of it is pathetic
+
+Ravi  6:07 PM
+The problem is people who deny them as isolated incident. They are the one that needs to be educated
+:raised_hands:
+1
+:+1:
+1
+
+
+JayKay  6:07 PM
+I detest the analogy of depicting the caste system with a human form. Saying head is this and hand is that...
+6:10
+Especially the fact that the head and hands act as saviours when the foot is hurt. BS.
+
+They claim that this is what Shankarachrya claims as right.
+
+I like his quote of "How privilege has become merit"
+
+They take money from them, extracts work from them but would not use or touch things they have touched
+1:49
+Only animals use intelligence, humans just follow what their ancestors have said - LOL
+
+JayKay  1:55 PM
+Weird how just 10% of a group can control a group of 70%...this has been a pattern in different parts of the world in different forms
+
+JayKay  2:10 PM
+"Avangaluku vanthu bloodu vanthu blue colorla irruku, engalluku red colorla irruku" - Lol
+
+JayKay  2:15 PM
+Dalit Christians are the worst discriminated. I too have thought ill about them at some point. Looks like they are discriminated both from Christianity and from the others too
+2:18
+All religion in their scriptures have said discrimination is a sin and have tried to abolish them (this is seen in Christianity and in Sikhs, probably even in Islam but not sure about Hinduism since we have so many gods some based on caste itself) but while following them people have trodden into different directions
+2:19
+or have probably taken advantage of the situation and created a myth of hierarchy to enslave people
+
+JayKay  2:26 PM
+They are born separately, they live separately it make sense to separate them at death too. So we have separate cemeteries.  - :disappointed:
+
+JayKay  2:44 PM
+My eyes became foggy. The happiness in the eyes, when she could draw water from a well. When the kid drank water offered by his friend. Yet a grown man did not accept the offered tea. One is innocent the other is bitter by experience. Both cannot be blamed.
+2:45
+A must watch. I cannot stress its importance more.
+
+--------------------------------------------
 
