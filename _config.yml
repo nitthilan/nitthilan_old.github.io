@@ -21,9 +21,11 @@ urls:
     #   url: /styleguide
     # - text: Get Started
     #   url: /get-started
+    - text: AnImation
+      url : /animation
     - text: Entertainment
       url : /entertainment
-    - text: Artificial Intelligence
+    - text: AI
       url : /ai
     - text: Stories
       url : /stories
@@ -93,7 +95,8 @@ hyvor_talk_website_id: 476
 # wakatime_username: nitthilan
 
 # mailchimp embedded form url (newsletter):
-mailchimp_form_url: https://sujaykundu.us10.list-manage.com/subscribe/post?u=50bab1c85eae24ecfb0f68361&amp;id=3a2dd721d0
+mailchimp_form_url: http://eepurl.com/hdS66T 
+#https://sujaykundu.us10.list-manage.com/subscribe/post?u=50bab1c85eae24ecfb0f68361&amp;id=3a2dd721d0
 
 # formspree (contact form)
 formspree_email: nitthilan@gmail.com
@@ -104,7 +107,7 @@ highlighter: rouge
 permalink: pretty
 
 # google analytics
-google_analytics: UA-46783401-10
+google_analytics: UA-178463631-1
 
 # Choose what to show ( can be true or false)
 show_author_work_experiences: true
