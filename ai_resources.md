@@ -5,8 +5,8 @@ menus: header
 permalink: /ai/
 ---
 
-### Sections
-[Children resources](#children-resources) - [Videos](#videos) - [Accelerators](#accelerators) - [Channels followed](#channels-followed) - [GPU and CUDA resource](#gpu-and-cuda-resource)
+### Sections       
+[Children resources](#children-resources) | [Videos](#videos) | [Accelerators](#accelerators) | [Channels followed](#channels-followed) | [GPU and CUDA resource](#gpu-and-cuda-resource)
 
 ###### Tutorials
 

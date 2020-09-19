@@ -21,9 +21,11 @@ urls:
     #   url: /styleguide
     # - text: Get Started
     #   url: /get-started
+    - text: AnImation
+      url : /animation
     - text: Entertainment
       url : /entertainment
-    - text: Artificial Intelligence
+    - text: AI
       url : /ai
     - text: Stories
       url : /stories
