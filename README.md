@@ -23,6 +23,7 @@ Commands used:
 - bundle exec jekyll build --drafts => to build drafts folder
 
 
+git pull
 bundle exec jekyll build 
 git add . 
 git commit -m "New posts added"
@@ -48,3 +49,5 @@ brew reinstall libffi
 
 
 bundle exec jekyll serve --watch --port 8000
+
+Page Analytics: https://analytics.google.com/analytics/web/?authuser=0#/report-home/a178463631w246867066p229280192
