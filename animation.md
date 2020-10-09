@@ -23,7 +23,7 @@ The current advancements in deep learning in the area of GAN, Neural Rendering
 ###### Significant Areas
 - Bayesian Optimzation based GAN latent variable search
 - StyleGAN
-- Camera pose estiimate
+- Camera pose estimate
 - Fourier feature networks
 - Photogrammetry
 - Part segmentation
@@ -33,10 +33,18 @@ The current advancements in deep learning in the area of GAN, Neural Rendering
 - Image Harmonization
 - Pose Transfer
 - Multi-view rendering
+- HyperNetworks
+- Continous Learning
 
 
 ###### Prominent Papers
-- 
+- NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis: [paper](https://arxiv.org/pdf/2003.08934.pdf), [code](https://github.com/kwea123/nerf_pl), [mesh reconstruction](https://github.com/kwea123/nerf_pl/blob/master/README_mesh.md), [color reproduction](https://github.com/bmild/nerf/issues/44), [PyMcubes](https://github.com/pmneila/PyMCubes)
+- Neural Sparse Voxel Fields: [paper](https://arxiv.org/pdf/2007.11571.pdf)
+- Fourier Features Let Networks Learn High Frequency Functions in Low Dimensional Domains: [paper](https://arxiv.org/pdf/2006.10739.pdf)
+- Generating Diverse High-Fidelity Images with VQ-VAE-2: [paper](https://arxiv.org/pdf/1906.00446.pdf)
+- NeRF in the Wild: Neural Radiance Fields for Unconstrained Photo Collections: [paper](https://arxiv.org/pdf/2008.02268.pdf)
+- Neural Rendering: [project](https://github.com/weihaox/awesome-neural-rendering)
+
 
 ###### Current Task List
 -

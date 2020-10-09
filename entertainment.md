@@ -13,6 +13,7 @@ permalink: /entertainment
 - [Girl on mooon](https://i.ytimg.com/vi/ZUCHi_2ncPQ/maxresdefault.jpg) - [youtube](https://www.youtube.com/watch?v=ZUCHi_2ncPQ)
 
 ##### Motivation
+- The motivation comes after work and not the other way around.
 - [Jigarthanda](https://youtu.be/bAmXn1fWnpE?t=6614)
 - If you want to go fast go alone, if you want to go far, go together
 - When you have many things to do pick the most important and most interesting at that point to work and start working
