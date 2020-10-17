@@ -23,7 +23,8 @@ Commands used:
 - bundle exec jekyll build --drafts => to build drafts folder
 
 
-bundle exec jekyll build
+git pull
+bundle exec jekyll build 
 git add . 
 git commit -m "New posts added"
 git push -u origin master
@@ -37,9 +38,9 @@ bundle exec jekyll serve --watch --port 8000 --incremental --detach
 bundle exec jekyll serve --watch --port 8000
 
 
-alias run_rsync='rsync -azP --progress --stats --exclude ".*/" --exclude ".*" --exclude "tmp/" //Users/kannappanjayakodinitthilan/Documents/myfolder/project_devan/aws_workspace/source/website/nitthilan.github.io njayakodi_dg@134.121.66.109:/local/data/nitthilan/source_code/website/'
+alias run_rsync='rsync -azP --progress --stats /Users/kannappanjayakodinitthilan/Documents/myfolder/project_devan/aws_workspace/source/website/nitthilan.github.io njayakodi_dg@dg19b.eecs.wsu.edu:/local/data/nitthilan/source_code/website/'
 
-run_rsync; fswatch -o Users/kannappanjayakodinitthilan/Documents/myfolder/project_devan/aws_workspace/source/website/nitthilan.github.io | while read f; do run_rsync; done
+run_rsync; fswatch -o /Users/kannappanjayakodinitthilan/Documents/myfolder/project_devan/aws_workspace/source/website/nitthilan.github.io/ | while read f; do run_rsync; done
 
 
 Fix for ffi:
@@ -48,3 +49,5 @@ brew reinstall libffi
 
 
 bundle exec jekyll serve --watch --port 8000
+
+Page Analytics: https://analytics.google.com/analytics/web/?authuser=0#/report-home/a178463631w246867066p229280192
