@@ -48,6 +48,6 @@ Fix for ffi:
 brew reinstall libffi
 
 
-bundle exec jekyll serve --watch --port 8000
+bundle exec jekyll serve --watch --port 6006
 
 Page Analytics: https://analytics.google.com/analytics/web/?authuser=0#/report-home/a178463631w246867066p229280192
